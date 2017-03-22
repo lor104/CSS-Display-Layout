@@ -5,3 +5,7 @@
 .photos {
     display:  inline-block;
 }
+
+.text-under-photo {
+    display:block;
+}
