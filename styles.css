@@ -14,13 +14,15 @@
 h1, footer {
     background-color: black;
     color: white;
+    padding: 15px 0;
+    text-align: center;
 }
 
 h2 {
     background-color: mediumseagreen;
 }
 
-li > a {
+.nav {
     background-color: grey;
     color: white;
 }
