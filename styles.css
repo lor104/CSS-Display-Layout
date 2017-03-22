@@ -1,0 +1,7 @@
+*, *::before, *::after {
+    font-family: helvetica, sans-serif;
+}
+
+.photos {
+    display:  inline-block;
+}
