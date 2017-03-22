@@ -16,13 +16,30 @@ h1, footer {
     color: white;
     padding: 15px 0;
     text-align: center;
+    margin: 0;
 }
 
 h2 {
     background-color: mediumseagreen;
+    font-size: 1em;
+    padding: 10px;
 }
 
-.nav {
-    background-color: grey;
+nav {
+    margin: 5px auto 0;
+    width: 30%;
+    text-align: center;
+}
+
+nav a {
+    background-color: lightgrey;
     color: white;
+    padding: 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+span {
+    font-weight: bolder;
+    border-bottom: 2px solid gold;
 }
