@@ -8,4 +8,19 @@
 
 .text-under-photo {
     display:block;
+    background-color: gold;
+}
+
+h1, footer {
+    background-color: black;
+    color: white;
+}
+
+h2 {
+    background-color: mediumseagreen;
+}
+
+li > a {
+    background-color: grey;
+    color: white;
 }
